@@ -1,15 +1,12 @@
-# README
-
-Este es un archivo README para el repositorio. Aquí puedes describir el propósito del proyecto, cómo instalarlo y cómo usarlo.
-
 
 ## Instalación
 
-Clona este repositorio: git clone https://github.com/mbrachetta/50268.git
+Clona este repositorio: git clone https://github.com/RGutierrez26/52004.git
 
 
 ## Instrucciones de Uso
-```sh
-Incorporar aquí las instrucciones detalladas de uso, gráficos explicativos y cualquier otra
-información que considere importante para favorecer el testeo y evaluación de su proyecto de
-analizador.
+Para La utilizacion correcta del analizador se tienen que seguir los siguientes pasos:
+1) abrir la carpeta parcial 2 en la consola de comandos
+2) copiar las entrads de los archivos inputvalido(1 o 2) o inputinvalido(1 o 2) y pegarlos en el archivo input.txt el cual esta en la carpeta parcial 2
+3) luego abrir la consola de comando y ejecutar el siguiente comando: node index.js
+4) una vez ejecutado el programa se mostrara todo lo solicitado en las consignas.
